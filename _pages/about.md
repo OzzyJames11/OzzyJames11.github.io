@@ -24,6 +24,3 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
-Soy un estudiante universitario apasionado por la ingeniería en ciencias de la computación, con un firme interés en la Física y la música. Mi viaje académico me ha llevado a explorar el emocionante mundo de la tecnología, donde se destacan la creatividad y la lógica, cualidades que aplico en mi enfoque hacia la resolución de problemas.
-
-Considerando mis gustos personales, también me apasiona la Docencia, la fotografía, la ilustración digital, la producción audiovisual y el deporte.
