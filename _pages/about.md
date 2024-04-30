@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Estudiante de ingeniería en Ciencias de la Computación.  
-Escuela Politécnica Nacional
 
 profile:
   align: right
