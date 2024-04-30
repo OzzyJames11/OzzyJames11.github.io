@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Estudiante de ingeniería en Ciencias de la Computación.  
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
