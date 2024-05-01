@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introducción a la Programación Estructurada con C++ (ESFOT, EPN).
-date: 2022-12-13 17:57:00
+date: 2022-12-14 17:57:00
 description: Curso Puente ofrecido por el proyecto CLAVEMAT.
 tags: formatting charts maps
 categories: sample-posts
