@@ -18,7 +18,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Escuela Politécnica Nacional
+Escuela Politécnica Nacional EPN
 
 Soy un estudiante universitario apasionado por la ingeniería en ciencias de la computación, con un firme interés en la Física y la música. Mi viaje académico me ha llevado a explorar el emocionante mundo de la tecnología, donde se destacan la creatividad y la lógica, cualidades que aplico en mi enfoque hacia la resolución de problemas.
 
