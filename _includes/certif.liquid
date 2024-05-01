@@ -1,16 +1,17 @@
 <div class="news">
-  {% if site.certif != blank %}
-    {% assign certif_size = site.certif | size %}
+  {% assign certif_files = site.certif | where_exp: "item", "item.path contains '_certificados'" %}
+  {% if certif_files.size > 0 %}
+    {% assign certif_size = certif_files | size %}
     <div
       class="table-responsive"
-      {% if include.limit and site.certif.scrollable and certif_size > 3 %}
+      {% if include.limit and certif_size > 3 %}
         style="max-height: 60vw"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
-        {% assign certif = site.certif | reverse %}
-        {% if include.limit and site.certif.limit %}
-          {% assign certif_limit = site.certif.limit %}
+        {% assign certif = certif_files | reverse %}
+        {% if include.limit %}
+          {% assign certif_limit = include.limit %}
         {% else %}
           {% assign certif_limit = certif_size %}
         {% endif %}
@@ -29,6 +30,6 @@
       </table>
     </div>
   {% else %}
-    <p>No certifi so far...</p>
+    <p>No certific so far...</p>
   {% endif %}
 </div>
