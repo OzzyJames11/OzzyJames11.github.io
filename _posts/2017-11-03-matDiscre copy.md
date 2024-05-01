@@ -1,6 +1,6 @@
 ---
 layout: post
-title: esfot
+title: Introducción a Algoritmos y Estructuras de Datos (ESFOT, EPN).
 date: 2022-12-12 17:57:00
 description: Curso Puente ofrecido por el proyecto CLAVEMAT.
 tags: formatting charts maps
