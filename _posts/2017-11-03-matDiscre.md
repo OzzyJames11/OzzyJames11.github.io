@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with geojson
-date: 2020-01-26 17:57:00
-description: this is what included geojson code could look like
+title: Matemática Discreta (CLAVEMAT, EPN).
+date: 2017-11-03 17:57:00
+description: Curso Puente ofrecido por el proyecto CLAVEMAT.
 tags: formatting charts maps
 categories: sample-posts
 map: true

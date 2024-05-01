@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with echarts
-date: 2020-01-26 16:03:00
-description: this is what included echarts code could look like
+title: Álgebra y Funciones (CLAVEMAT, EPN).
+date: 2017-11-03 16:03:00
+description: Curso Puente ofrecido por el proyecto CLAVEMAT.
 tags: formatting charts
 categories: sample-posts
 chart:

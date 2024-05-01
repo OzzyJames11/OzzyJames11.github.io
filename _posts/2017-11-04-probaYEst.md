@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with advanced image components
-date: 2020-01-27 11:46:00
-description: this is what advanced image components could look like
+title: Probabilidad y Estadística (CLAVEMAT, EPN).
+date: 2017-11-04 11:46:00
+description: Curso Puente ofrecido por el proyecto CLAVEMAT.
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
