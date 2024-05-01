@@ -1,6 +1,6 @@
 ---
 layout: post
-title: a post with giscus comments
+title: nueva
 date: 2020-12-10 11:59:00-0400
 description: an example of a blog post with giscus comments
 tags: comments
