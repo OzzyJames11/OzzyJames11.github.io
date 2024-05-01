@@ -1,5 +1,5 @@
 <div class="news">
-  {% assign certif_files = site.certif | where_exp: "item", "item.path contains '_certificados'" %}
+  {% assign certif_files = site.certif | where: "path", "_certificados" %}
   {% if certif_files.size > 0 %}
     {% assign certif_size = certif_files | size %}
     <div
@@ -30,6 +30,6 @@
       </table>
     </div>
   {% else %}
-    <p>No certific so far...</p>
+    <p>No certifi so far...</p>
   {% endif %}
 </div>
