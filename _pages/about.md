@@ -30,4 +30,4 @@ Considerando mis gustos personales, también me apasiona la Docencia, la fotogra
 - Lenguajes de programación: JAVA, C++.
 - Bases de datos: SQL Server, MySQL.
 - Análisis de datos: Wolfram Mathematica.
-- Manejo de LaTeX.
+- Manejo avanzado de LaTeX.
