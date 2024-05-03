@@ -25,7 +25,7 @@ Soy un estudiante universitario apasionado por la ingeniería en ciencias de la 
 
 Considerando mis gustos personales, también me apasiona la Docencia, la fotografía, la ilustración digital, la producción audiovisual y el deporte.
 
-## HABILIDADES
+### Habilidades
 
 - Lenguajes de programación: JAVA, C++.
 - Bases de datos: SQL Server, MySQL.
